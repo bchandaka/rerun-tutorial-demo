@@ -1,0 +1,4 @@
+rerun-sdk
+flask
+numpy
+opencv-python<4.6
